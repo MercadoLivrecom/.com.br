@@ -1,0 +1,132 @@
+body{
+	margin: 0px;
+	background-color: #fff;
+}
+
+.r{
+	float: right;
+}
+
+.c{
+	text-align: center;
+}
+
+.it{
+background-color: #f5f6f7;
+padding: 13px;
+width: 100%;
+box-sizing: border-box;
+color: #131313;
+font-size: 14px;
+border-radius: 4px;
+box-shadow: 3px 4px 6px -7px #888;
+border: 1px solid #ddd;
+  border-top-color: rgb(221, 221, 221);
+  border-top-style: solid;
+  border-top-width: 1px;
+border-top: 1px solid #eaeaea;
+}
+
+.contexto {
+  background: white;
+    background-color: white;
+  border: solid 1px #fff;
+  padding: 16px 15px 1px 15px;
+  box-sizing: border-box;
+  width: 100%;
+  position: relative;
+}
+
+
+.bf {
+  padding: 0px 0px;
+  border-radius: 4px;
+  border: 1px solid #1877f2;
+  background-color: #1877f2;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  font-family: inherit;
+  width: 100%;
+  line-height: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow: 0 -1px rgb(76, 76, 76);
+  margin: 11px 0px 4px 0px;
+}
+
+.fr {
+  font-family: "Roboto", sans-serif !important;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.faceb{
+	background-color: #1a4688;
+}
+
+.ta2 {
+  padding: 13px;
+  width: 100%;
+  box-sizing: border-box;
+  color: #131313;
+  font-size: 14px;
+  border: 1px solid #d0d0d0;
+    border-bottom-color: rgb(208, 208, 208);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+  font-family: "Roboto", sans-serif;
+}
+
+.ou > span::before {
+  margin-right: 15px;
+  right: 100%;
+}
+
+.ou > span::after {
+  margin-left: 15px;
+  left: 100%;
+}
+
+.ou > span::before, .ou > span::after {
+  background: #ccd0d5;
+  content: '';
+  height: 1px;
+  position: absolute;
+  top: 50%;
+  width: 9999px;
+}
+
+.ou > span {
+  display: inline-block;
+  position: relative;
+}
+.ou {
+  color: #4b4f56;
+}
+
+.f8 {
+display: block;
+overflow: hidden;
+text-align: center;
+white-space: nowrap;
+}
+
+.cria{
+	padding: 10px 20px 10px 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-shadow: 0 -1px rgb(76, 76, 76);
+	margin: 11px 0px 4px 0px;
+	color: white;
+	background-color: #00a400;
+	border: 1px solid #00a400;
+	border-radius: 4px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 20px 0px 0px 0px;
+}
+
